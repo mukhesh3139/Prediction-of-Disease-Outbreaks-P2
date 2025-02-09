@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit
+pandas
+numpy
+scikit-learn
+
+plotly
+
+# For data visualization
+matplotlib
+seaborn
+
+# For styling and UI components
+pillow
